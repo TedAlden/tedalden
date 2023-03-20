@@ -9,9 +9,7 @@
 ## My projects
 
 - My favourite languages to write with at the moment are `Python`, `Java`, and `Javascript`. I am currently in the process learning React Native to expand my palette a bit!
-
 - Most of my projects are outside of Github and I plan to upload them here in the near future.
-
 - Currently the main project I am working on is a University assignment to make a clone of **The Settlers of Catan**.
 
 | [The Settlers of Catan](https://github.com/TedAlden/settlers-of-catan) |
