@@ -7,7 +7,6 @@
 
 - I'm from the South Coast of England and a second-year student at the University of Sussex studying a Masters degree in Computer Science.
 - I am currently working as an online tutor for [Kodland](https://www.kodland.org/) teaching several different Python courses.
-- When I am not working, my favourite things to do are play games and lift weights.
 
 ## My projects
 
