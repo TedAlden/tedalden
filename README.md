@@ -1,5 +1,8 @@
 [![banner](banner.png)](https://github.com/TedAlden)
 
+| [LinkedIn](https://www.linkedin.com/in/ted-alden-templeman/) | [GitHub](https://github.com/TedAlden) | [Website](https://www.tedalden.dev/) |
+| - | - | - |
+
 ## About me
 
 - I'm from the South Coast of England and a second-year student at the University of Sussex studying a Masters degree in Computer Science.
