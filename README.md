@@ -15,5 +15,16 @@
 - Most of my projects are outside of GitHub and I plan to upload them here soon.
 - My main project currently is a University assignment where I am making a clone of **The Settlers of Catan**.
 
-| [The Settlers of Catan](https://github.com/TedAlden/settlers-of-catan) | ![GitHub Repo stars](https://img.shields.io/github/stars/tedalden/settlers-of-catan?style=social) |
-| - | - |
+<table><tr><td width=15%>
+
+[The Settlers of Catan](https://github.com/TedAlden/settlers-of-catan)
+
+</td><td width=103>
+  
+![GitHub Repo stars](https://img.shields.io/github/stars/tedalden/settlers-of-catan?style=social)
+  
+</td><td>
+
+Currently main project as of Spring 2023. A software Engineering coursework assignment from University to make a clone of the board game *'The Settlers of Catan'* using Python and Pygame. We worked as a group of 6 people over the course of around 12 weeks. The aim was to get familiar with team-based development and project management, while working in an Agile environment.
+
+</td></tr></table>
