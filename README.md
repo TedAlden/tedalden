@@ -11,8 +11,7 @@
 
 ## My projects
 
-- Most of my projects are outside of GitHub and I plan to upload them here soon.
-- My main project currently is a University assignment where I am making a clone of **The Settlers of Catan**.
+Most of my projects are outside of GitHub and I plan to upload them here soon...
 
 <table><tr>
 
