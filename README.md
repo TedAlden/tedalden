@@ -13,7 +13,8 @@
 
 Most of my projects are outside of GitHub and I plan to upload them here soon...
 
-<table><tr>
+<table>
+<tr>
 
 <td>
   
@@ -33,4 +34,43 @@ University assignment to make a clone of the board game *'The Settlers of Catan'
 
 </td>
 
-</tr></table>
+</tr>
+<tr>
+
+<td>
+  
+[Antique Web-App](https://github.com/TedAlden/antique-web-app)
+
+University assignment to make a simple web app for listing antiques and requesting evaluations. The key focus was to implement a variety of cyber-security features including 2FA, XSS and CSRF protection, ReCaptcha, password recovery services, and many more.
+
+`Python` `Flask` `HTML` `CSS` `SQLite`
+
+</td>
+
+<td width=350>
+
+[![preview](https://github.com/TedAlden/antique-web-app/raw/main/screenshot.png)]([https://github.com/TedAlden](https://github.com/TedAlden/antique-web-app)https://github.com/TedAlden/antique-web-app)
+
+</td>
+
+</tr>
+<tr>
+
+<td>
+  
+[Automaton Simulator](https://github.com/TedAlden/automaton-simulator)
+
+University third-year project. Created a web-application that allows users to construct automaton models and see a step-by-step visual simulation showing how it reads an input and either accepts it or rejects it.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width=350>
+
+[![preview](https://github.com/TedAlden/automaton-simulator/raw/main/screenshot.png)]([https://github.com/TedAlden](https://github.com/TedAlden/automaton-simulator)https://github.com/TedAlden/automaton-simulator)
+
+</td>
+
+</tr>
+</table>
