@@ -73,4 +73,23 @@ University third-year project. Created a web-application that allows users to co
 </td>
 
 </tr>
+<tr>
+
+<td>
+  
+[Coca Cola Web-App](https://github.com/TedAlden/web-3d-applications)
+
+University third-year assignment to create a 3D web-application for viewing 3D models of Coca Cola drinks through different camera angles, animations, lighting systems, and rendering modes. MVC architecture using PHP, accessing an SQLite database and various external APIs.
+
+`HTML` `CSS` `JS` `PHP` `SQLite` `X3DOM` `3DS Max`
+
+</td>
+
+<td width=350>
+
+[![preview](https://github.com/TedAlden/web-3d-applications/raw/main/screenshot.png)]([https://github.com/TedAlden](https://github.com/TedAlden/web-3d-applications)https://github.com/TedAlden/web-3d-applications)
+
+</td>
+
+</tr>
 </table>
