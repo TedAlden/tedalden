@@ -62,7 +62,7 @@ University assignment to make a simple web app for listing antiques and requesti
 
 University third-year project. Created a web-application that allows users to construct automaton models and see a step-by-step visual simulation showing how it reads an input and either accepts it or rejects it.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JS`
 
 </td>
 
