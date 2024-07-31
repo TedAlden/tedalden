@@ -5,10 +5,8 @@
 
 ## About me
 
-- I live in the South-East of England.
 - I'm a Computer Science Master's student at the [University of Sussex](https://www.sussex.ac.uk/study/undergraduate/courses/computer-science-mcomp).
-- I'm currently working as an online tutor for [Kodland](https://www.kodland.org/) teaching several different Python courses.
-- My favourite language is Python.
+- I currently live in the South-East of England.
 
 ## My projects
 
