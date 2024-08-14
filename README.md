@@ -14,7 +14,6 @@ Most of my projects are outside of GitHub and I plan to upload them here soon...
 
 <table>
 <tr>
-
 <td>
   
 [The Settlers of Catan](https://github.com/TedAlden/settlers-of-catan)
@@ -26,16 +25,13 @@ University assignment to make a clone of the board game *'The Settlers of Catan'
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/tedalden/settlers-of-catan?style=social) -->
 
 </td>
+<td width=300>
 
-<td width=350>
-
-[![preview](https://github.com/TedAlden/settlers-of-catan/raw/main/screenshot.png)]([https://github.com/TedAlden](https://github.com/TedAlden/settlers-of-catan)https://github.com/TedAlden/settlers-of-catan)
+![preview](https://github.com/TedAlden/settlers-of-catan/raw/main/screenshot.png)
 
 </td>
-
 </tr>
 <tr>
-
 <td>
   
 [Antique Web-App](https://github.com/TedAlden/antique-web-app)
@@ -45,16 +41,13 @@ University assignment to make a simple web app for listing antiques and requesti
 `Python` `Flask` `HTML` `CSS` `SQLite`
 
 </td>
+<td width=300>
 
-<td width=350>
-
-[![preview](https://github.com/TedAlden/antique-web-app/raw/main/screenshot.png)]([https://github.com/TedAlden](https://github.com/TedAlden/antique-web-app)https://github.com/TedAlden/antique-web-app)
+![preview](https://github.com/TedAlden/antique-web-app/raw/main/screenshot.png)
 
 </td>
-
 </tr>
 <tr>
-
 <td>
   
 [Automaton Simulator](https://github.com/TedAlden/automaton-simulator)
@@ -64,16 +57,13 @@ University third-year project. Created a web-application that allows users to co
 `HTML` `CSS` `JS`
 
 </td>
+<td width=300>
 
-<td width=350>
-
-[![preview](https://github.com/TedAlden/automaton-simulator/raw/main/screenshot.png)]([https://github.com/TedAlden](https://github.com/TedAlden/automaton-simulator)https://github.com/TedAlden/automaton-simulator)
+![preview](https://github.com/TedAlden/automaton-simulator/raw/main/screenshot.png)
 
 </td>
-
 </tr>
 <tr>
-
 <td>
   
 [Coca Cola Web-App](https://github.com/TedAlden/web-3d-applications)
@@ -83,12 +73,10 @@ University third-year assignment to create a 3D single-page web-application for 
 `HTML` `CSS` `JS` `PHP` `AJAX` `SQLite` `X3DOM` `3DS Max`
 
 </td>
+<td width=300>
 
-<td width=350>
-
-[![preview](https://github.com/TedAlden/web-3d-applications/raw/main/screenshot.png)]([https://github.com/TedAlden](https://github.com/TedAlden/web-3d-applications)https://github.com/TedAlden/web-3d-applications)
+![preview](https://github.com/TedAlden/web-3d-applications/raw/main/screenshot.png)
 
 </td>
-
 </tr>
 </table>
