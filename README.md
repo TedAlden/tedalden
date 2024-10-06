@@ -8,7 +8,7 @@
     <td><b>Dev-ops & Other Skills</b></td>
  </tr>
  <tr>
-    <td width=50%>
+    <td width=423>
       <ul>
         <li>HTML, SCSS, Bootstrap, Jquery</li>
         <li>TailwindCSS, MaterialUI, Shadcn-UI</li>
@@ -19,7 +19,7 @@
         <li>MySQL, SQLite, MongoDB, Firebase</li>
       </ul>
     </td>
-    <td width=50%>
+    <td width=423>
       <ul>
         <li>Docker, Docker-compose</li>
         <li>Hosting, Nginx, Cloudflare tunnels & DNS</li>
