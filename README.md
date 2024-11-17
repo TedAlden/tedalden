@@ -1,37 +1,30 @@
-[![banner](banner.png)](https://github.com/TedAlden)
+# 🙋‍♂️ Hi, I'm Ted!
 
-[Portfolio](https://www.tedalden.dev/)  •  [LinkedIn](https://www.linkedin.com/in/ted-alden-templeman/)
+Aspiring software engineer, current student at University of Sussex. Full stack web developer and Python lover.
 
-<table>
- <tr>
-    <td><b>Programming Languages</b></td>
-    <td><b>Dev-ops & Other Skills</b></td>
- </tr>
- <tr>
-    <td width=423>
-      <ul>
-        <li>HTML, SCSS, Bootstrap, Jquery</li>
-        <li>TailwindCSS, MaterialUI, Shadcn-UI</li>
-        <li>ReactJS, ReactNative, TypeScript</li>
-        <li>NodeJS, Express, Electron, Passport, Socket.IO</li>
-        <li>Python, Flask, Django, Pygame, Tkinter</li>
-        <li>Java, JavaFX</li>
-        <li>MySQL, SQLite, MongoDB, Firebase</li>
-      </ul>
-    </td>
-    <td width=423>
-      <ul>
-        <li>Docker, Docker-compose</li>
-        <li>Hosting, Nginx, Cloudflare tunnels & DNS</li>
-        <li>Git, GitHub actions, GitHub pages, Jekyll</li>
-        <li>Deployment on Heroku, Glitch</li>
-        <li>Agile working, Test-driven development</li>
-        <li>Linux, bash/batch scripting</li>
-        <li>Data structures & algorithms</li>
-      </ul>
-    </td>
- </tr>
-</table>
+Follow me :: [Portfolio](https://www.tedalden.dev/)  •  [LinkedIn](https://www.linkedin.com/in/ted-alden-templeman/)
+
+## Favourite programming languages
+
+- Frontend :: HTML/CSS, ReactJS, jQuery, Bootstrap
+- Backend :: NodeJS, Express, Electron,
+- Databases :: MySQL, SQLite, MongoDB, Firebase
+- Python :: Flask, Django, Pygame, Tkinter
+
+## Other technologies
+
+- Self-hosting :: Linux, Nginx, Cloudflare tunnels, DNS
+- Cloud-hosting :: Heroku, Glitch
+- Devops :: Git, GitHub actions, GitHub pages, Jekyll
+- Docker, Docker-compose
+
+## Skills
+
+- Strong background with maths
+- Data structures & algorithms
+- Agile working, Test-driven development
+
+## Projects
 
 <details>
 <summary>My Projects...</summary>
