@@ -2,7 +2,7 @@
 
 Aspiring software engineer, current student at University of Sussex. Full stack web developer and Python lover.
 
-Follow me :: [Portfolio](https://www.tedalden.dev/)  •  [LinkedIn](https://www.linkedin.com/in/ted-alden-templeman/)
+See more ⇨ [Portfolio](https://www.tedalden.dev/)  •  [LinkedIn](https://www.linkedin.com/in/ted-alden-templeman/)
 
 ## Favourite programming languages
 
