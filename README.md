@@ -4,7 +4,7 @@ Aspiring software engineer, current student at University of Sussex. Full stack 
 
 See more ⇨ [Portfolio](https://www.tedalden.dev/)  •  [LinkedIn](https://www.linkedin.com/in/ted-alden-templeman/)
 
-## Favourite programming languages
+## Favourite languages
 
 - Frontend :: HTML/CSS, ReactJS, jQuery, Bootstrap
 - Backend :: NodeJS, Express, Electron,
