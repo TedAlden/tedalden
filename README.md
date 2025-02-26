@@ -1,37 +1,39 @@
 # 🙋‍♂️ Hi, I'm Ted!
 
-> Part-time software developer.<br>
-> Computer Science Master's student at University of Sussex.<br>
-> Focused on full-stack web development and anything Python related.
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Portfolio][portfolio-shield]][portfolio-url]
+[![Twitter][twitter-shield]][twitter-url]
 
-See more ⇨ [Portfolio](https://www.tedalden.dev/)  •  [LinkedIn](https://www.linkedin.com/in/ted-alden-templeman/)
+> Full-stack software developer.<br>
+> Computer Science Master's student at University of Sussex.
 
 ## Key languages & frameworks
 
-- **Frontend** :: ReactJS, ASP.NET Blazor, HTML/CSS, jQuery, Bootstrap
-- **Backend** :: NodeJS, ASP.NET Web API, Flask, Django, Express
-- **Databases** :: MySQL, SQLite, MongoDB, Firebase
-- **Desktop** :: Python (Pygame & Tkinter), Electron
+- **Frontend** ⇨ ReactJS • HTML/CSS • jQuery • Bootstrap • ASP.NET Blazor
+- **Backend** ⇨ NodeJS • Flask • Django • Express • ASP.NET Web API
+- **Databases** ⇨ MySQL • SQLite • MongoDB • Firebase
+- **Desktop** ⇨ Python • Pygame • Tkinter • Electron • JavaFX
 
 ## Other technologies
 
-- **Self-hosting** :: Linux, Nginx, Cloudflare tunnels, DNS
-- **Cloud-hosting** :: Heroku, Glitch, Netlify
-- **Devops** :: Git, GitHub Actions, GitHub Pages, Jekyll
-- **Containers** :: Docker, Docker-compose
+- **Self-hosting** ⇨ Linux • Nginx • Cloudflare tunnels • DNS
+- **Cloud-hosting** ⇨ Heroku • Glitch • Netlify
+- **Devops** ⇨ Git • GitHub Actions • GitHub Pages • Jekyll
+- **Containers** ⇨ Docker • Docker-compose
 
 ## Skills
 
-- Strong with maths, data structures & algorithms
-- Test-driven development
-- Project management, agile sprints (Jira & GitHub Projects)
+- Maths • Data science • Data Structures & Algorithms
+- Project management • Agile • Jira • GitHub Projects
+- Test-Driven Development
 
 ## Projects
 
-<details>
-<summary>My Projects...</summary>
-<br>
+See my [portfolio website][portfolio-url]!
 
-WIP!
-
-</details>
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge
+[linkedin-url]: https://www.linkedin.com/in/ted-alden-templeman/
+[portfolio-shield]: https://img.shields.io/badge/Portfolio-3F88D2?style=for-the-badge
+[portfolio-url]: https://www.tedalden.dev/
+[twitter-shield]: https://img.shields.io/badge/Twitter-7CAEE2?style=for-the-badge
+[twitter-url]: https://x.com/TedAldenT
