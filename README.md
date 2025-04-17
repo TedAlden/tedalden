@@ -9,8 +9,8 @@
 
 ## Key languages & frameworks
 
-- **Frontend** ⇨ ReactJS • HTML/CSS • jQuery • Bootstrap • ASP.NET Blazor
-- **Backend** ⇨ NodeJS • Flask • Django • Express • ASP.NET Web API
+- **Frontend** ⇨ ReactJS • HTML/CSS • jQuery • Bootstrap • .NET Blazor
+- **Backend** ⇨ NodeJS • Flask • Django • Express • .NET Core
 - **Databases** ⇨ MySQL • SQLite • MongoDB • Firebase
 - **Desktop** ⇨ Python • Pygame • Tkinter • Electron • JavaFX
 
