@@ -2,7 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Portfolio][portfolio-shield]][portfolio-url]
-[![Twitter][twitter-shield]][twitter-url]
+[![LeetCode][leetcode-shield]][leetcode-url]
 
 > Full-stack software developer.<br>
 > Computer Science Master's student at University of Sussex.
@@ -35,5 +35,5 @@ See my [portfolio website][portfolio-url]!
 [linkedin-url]: https://www.linkedin.com/in/ted-alden-templeman/
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-3F88D2?style=for-the-badge
 [portfolio-url]: https://www.tedalden.dev/
-[twitter-shield]: https://img.shields.io/badge/Twitter-7CAEE2?style=for-the-badge
-[twitter-url]: https://x.com/TedAldenT
+[leetcode-shield]: https://img.shields.io/badge/LeetCode-7CAEE2?style=for-the-badge
+[leetcode-url]: [https://x.com/TedAldenT](https://leetcode.com/u/TedAlden/)
