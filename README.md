@@ -36,4 +36,4 @@ See my [portfolio website][portfolio-url]!
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-3F88D2?style=for-the-badge
 [portfolio-url]: https://www.tedalden.dev/
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-7CAEE2?style=for-the-badge
-[leetcode-url]: [https://x.com/TedAldenT](https://leetcode.com/u/TedAlden/)
+[leetcode-url]: https://leetcode.com/u/TedAlden/
