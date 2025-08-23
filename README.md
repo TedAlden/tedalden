@@ -5,7 +5,7 @@
 [![LeetCode][leetcode-shield]][leetcode-url]
 
 > Full-stack software developer.<br>
-> Computer Science Master's student at University of Sussex.
+> Recent Computer Science Master's (1st class) graduate from University of Sussex.
 
 ## Key languages & frameworks
 
